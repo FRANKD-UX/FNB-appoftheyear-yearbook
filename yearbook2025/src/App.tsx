@@ -6,56 +6,56 @@ const timelineData = [
   { 
     week: 1, 
     topic: "Intro to HTML & CSS",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Building the foundation of web development with semantic markup and styling.",
-    skills: ["HTML5", "CSS3", "Flexbox", "Grid"]
+    description: " crafting apps using HTML and beautifying them using CSS. Upon completion of this level, you will have built 2 apps in its entirety from the ground up",
+    skills: ["HTML5", "The Software Development Live Cycle(SDLC)", "GitHub and Collaboration", "App Strategies",]
   },
   { 
     week: 2, 
-    topic: "JavaScript Basics",
-    description: "Sed do eiusmod tempor incididunt ut labore. Mastering the fundamentals of programming logic and syntax.",
-    skills: ["Variables", "Functions", "Arrays", "Objects"]
+    topic: "CSS Basics",
+    description: "introduced to CSS, the language used to add style to your apps. You’re going to learn how to change fonts, add colors and include hover effects in your apps. Finally, you’ll combine this with what you’ve learned in week 1 to create your first complete app.",
+    skills: ["CSS", "CSS Fonts", "List Bullet Image", "List Bullets"]
   },
   { 
     week: 3, 
-    topic: "Advanced JS & DOM",
-    description: "Ut enim ad minim veniam, quis nostrud exercitation. Interactive web pages and dynamic content manipulation.",
-    skills: ["DOM Manipulation", "Event Handling", "Async/Await", "APIs"]
+    topic: "Pine Zoo",
+    description: "walked through the Software Development Life Cycle, using our case study app, Pine City Zoo, to explore how developers go from an idea to a full-fledged app. It’s all about planning, designing, and thinking ahead—just like a real dev team would.",
+    skills: ["Styling the Header Section", "EAnimal Page HTML", "Animal Page More Links", "Setting up the Development Environment"]
   },
   { 
     week: 4, 
-    topic: "React Fundamentals",
-    description: "Duis aute irure dolor in reprehenderit in voluptate. Component-based architecture and modern UI development.",
-    skills: ["Components", "Props", "State", "Hooks"]
+    topic: "JavaScript Fundamentals",
+    description: "using everything you’ve learned so far to build a fully functional calculator app. ",
+    skills: ["Functions", "DOM manipulation",]
   },
   { 
     week: 5, 
-    topic: "Backend with Node.js",
+    topic: "The Calculator App",
     description: "Excepteur sint occaecat cupidatat non proident. Server-side development and API creation.",
     skills: ["Express.js", "Routing", "Middleware", "REST APIs"]
   },
   { 
     week: 6, 
-    topic: "Databases & APIs",
-    description: "Sunt in culpa qui officia deserunt mollitia. Data persistence and external service integration.",
-    skills: ["MongoDB", "SQL", "CRUD Operations", "API Integration"]
+    topic: "Contact Book App",
+    description: "time to take things up a notch. You’ll be building a fully functional Contact Book app, your most advanced project yet. What makes this one different? Instead of adding contacts manually, your app will connect to an API to fetch data from an external database.",
+    skills: ["API", "API Key", "JSON Array", "Formdata Object"]
   },
   { 
     week: 7, 
-    topic: "Authentication & Security",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing. User management and application security best practices.",
-    skills: ["JWT", "OAuth", "Password Hashing", "Security Headers"]
+    topic: "intro to python",
+    description: "We’ll be leaving the safety and comfort of HTML, CSS and JS, and embarking on a whole new quest. This week, you’ll be starting your journey into Python Development!",
+    skills: ["Python", "Strings", "Variables", "Operators "]
   },
   { 
     week: 8, 
     topic: "Deployment & Hosting",
-    description: "Sed ut perspiciatis unde omnis iste natus error. Taking applications from development to production.",
-    skills: ["Docker", "AWS", "CI/CD", "Environment Variables"]
+    description: "This week, we’re continuing your Python journey. You’ll begin by exploring data structures in Python, then apply your skills to build a complete project, from the ground up, using only Python. It's a challenging but exciting step forward.",
+    skills: ["Tuples", "Sets", "Dictionaries," ]
   },
   { 
     week: 9, 
-    topic: "Final Projects & Demo Day",
-    description: "At vero eos et accusamus et iusto odio dignissimos. Showcasing skills through comprehensive portfolio projects.",
-    skills: ["Project Management", "Code Review", "Presentation", "Portfolio"]
+    topic: "Exam",
+    description: "time to put what you leanred to the test lets write the exam ",
+    skills: ["Exam Preparation", "Mock Exam", "Final Exam", "Review and Feedback"]
   },
 ];
 
